@@ -1,0 +1,35 @@
+body{
+    background-image:url(../leagueof.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+
+#chat_division{
+    background-color: #201D58;
+    width: 1200px;
+    height: 939px;
+    display: block;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Soulcraft', sans-serif;
+    color: white;
+}
+
+p{
+    text-align: left;
+    font-family: 'Soulcraft', sans-serif;
+    color: #ffffff8f;
+    padding: 300px 0px 10px 60px;
+
+}
+
+hr {
+    color: #ffffff8f;
+    background: linear-gradient(to bottom, red, bl);
+}
