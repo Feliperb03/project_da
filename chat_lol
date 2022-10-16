@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="lol_styles.css">
+    <link href="http://fonts.cdnfonts.com/css/soulcraft" rel="stylesheet">
+    <style>
+        @import url('http://fonts.cdnfonts.com/css/soulcraft');
+    </style>
+</head>
+<body>
+    <div id="chat_division">
+        
+        <h1>League of Legend Room</h1>
+        <hr>
+        <p>¡Se el primero en escribir!</p>
+    </div>
+
+</body>
+</html>
