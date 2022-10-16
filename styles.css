@@ -1,1 +1,74 @@
 
+/*general*/
+body{
+    background-color: #201D58;
+    color: white;
+    font: 200 15px 'Soulcraft', sans-serif;
+}
+/*id, clases*/
+.gray{
+    color: #CCCCCC;
+}
+
+#head{
+    color: white;
+    font-family: 'Soulcraft', sans-serif;
+    font-size: 32px;
+    line-height: 32px;
+    padding: 77px 325px 10px;
+    float: inline-end;
+}
+
+#parrafo{
+    font-family: 'Soulcraft', sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    padding: 10px 500px 20px 330PX;
+    float: inline-end;
+
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#primer{
+    background-color: #000000;
+    border-bottom: 1px solid #08e6ce;
+    background-image: url("https://cdn-icons-png.flaticon.com/512/2618/2618988.png");
+    min-height: 350px;
+    background-size: 350px;
+    background-repeat:no-repeat;
+
+}
+
+#segundo{
+    margin: 5px;
+    padding: 5px;
+}
+#joystick{
+    margin: 5px;
+    padding: 40px 40px;
+}
+
+.sala1{
+    padding: 20px 50px 50px 20px;
+}
+
+.sala1:hover{
+    transform: scale(1.1);
+}
+
+.letra{
+    padding: 15px 10px 15px 25px;
+
+}
+
+/*
+    background-repeat:no-repeat;
+    background-size: 350px;
+    padding: 100px 100px 100px 100px;
+    background-attachment: fixed;
+
+*/
